@@ -1,4 +1,6 @@
-Olá!! Eu sou o Kilmer.
+👋 Olá!! Eu sou o Kilmer.
+💻 Estudante de Ciência da computação | Apaixonado por Frontend e Desenvolvimento web.
+🚀 Buscando evoluir em JavaScript, TypeScript, React e Next.js
 
 <div align="center">
   <a href="https://github.com/Kilmer11">
