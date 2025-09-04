@@ -3,9 +3,11 @@
 🚀 Buscando evoluir em JavaScript, TypeScript, React e Next.js
 
 <div align="center">
+  <br>
   <a href="https://github.com/Kilmer11">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kilmer11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilmer11&layout=compact&langs_count=7&theme=dracula"/>
+  <br>
 </div>
  
 <div> 
