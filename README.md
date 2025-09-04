@@ -1,10 +1,6 @@
 👋 Olá!! Eu sou o Kilmer.<br>
-💻 Estudante de Ciência da computação | Apaixonado por Frontend e Desenvolvimento web.
+💻 Estudante de Ciência da computação | Apaixonado por Frontend e Desenvolvimento web.<br>
 🚀 Buscando evoluir em JavaScript, TypeScript, React e Next.js
-
-<p align="center">
-  <img src="https://your-image-link-here.com/banner.png" alt="Kilmer Banner" />
-</p>
 
 <div align="center">
   <a href="https://github.com/Kilmer11">
