@@ -1,6 +1,6 @@
-👋 Olá!! Eu sou o Kilmer.<br>
-💻 Estudante de Ciência da computação | Apaixonado por Frontend e Desenvolvimento web.<br>
-🚀 Buscando evoluir em JavaScript, TypeScript, React e Next.js
+👋 Hello!! I am Kilmer.<br>
+💻 Computer science student | Lover of Frontend and web development.<br>
+🚀 Seeking to evolve in JavaScript, TypeScript, React and Next.js
 
 <div align="center">
   <br>
@@ -20,8 +20,8 @@
 </div>
 
 <div>
-  <li>My Social medias</li>
-  <br>
+  <li>My Social medias</li><br>
+  
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kilmerandrade45@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kilmer-andrade-4780b530a/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kilmer11/)
